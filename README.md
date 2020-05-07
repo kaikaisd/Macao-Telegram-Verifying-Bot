@@ -1,0 +1,1 @@
+# Macao-Telegram-Verifying-Bot
